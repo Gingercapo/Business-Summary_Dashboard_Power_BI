@@ -1,0 +1,2 @@
+# Business-Summary_Dashboard_Power_BI
+A report that summarizes the highest severity alarms for the current dashboard. This report is context-sensitive and appears as a dashlet in multiple dashboards. The information that appears in this report is filtered based on your current selection and type of dashboard. In the context of the Summary dashboard, the report displays information for your environment.
